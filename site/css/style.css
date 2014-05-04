@@ -1,0 +1,49 @@
+body {
+	background-color: rgb(14,7,11);
+	background-image: url("/img/evt-logo.png");
+	background-position: 20px 50px;
+	background-repeat: no-repeat;
+	font-family: 'Noto Sans', sans-serif;
+	font-size: 2em;
+	color: rgb(255,255,254);
+}
+
+div#stripe {
+	position: absolute;
+	left: 530px;
+	top: 0px;
+}
+
+div#left {
+	padding-left: 95px;
+	padding-right: 105px;
+	float: left;
+}
+
+div#right {
+	float: left;
+	padding-top: 139px;
+	padding-left: 95px;
+}
+
+div#about {
+	padding-top: 390px;	
+}
+
+div#address {
+	padding-top: 45px;
+	padding-bottom: 34px;
+}
+
+div#contact {
+	
+}
+div#bottom {
+	bottom: 0px;
+	position: fixed;
+	font-size: 13px;
+	padding: 5px
+}
+a {
+	color: white;
+}
